@@ -1,6 +1,6 @@
 import os
 
-folder = "D:\studia\gowno_na_studia\ezgif-5-060f144125-gif-png\\"
+folder = "Path to your folder"
 
 number = 1
 
